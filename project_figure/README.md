@@ -1,18 +1,36 @@
 # project_figure — 研究專案圖片
 
-把圖檔照下列檔名放進這個資料夾,網站會自動顯示(建議 PNG,寬度 ≥ 1200px):
+把圖檔照下列檔名放進這個資料夾,網站會自動顯示(建議 PNG,寬度 ≥ 1200px)。
+檔案不存在時,網頁會顯示灰色佔位框並標明應放的檔名。
 
-| 檔名 | 用途 |
+## 專案 01 — Multimodal BCI / Vision Control for an Assistive Mobile Manipulator
+| 檔名 | 內容 |
 |---|---|
-| `p1_method.png` | 專案 01(EEG 共享自主)方法流程圖 |
-| `p1_fig1.png` | 專案 01 結果圖 1 — 完成時間比較 |
-| `p1_fig2.png` | 專案 01 結果圖 2 — 控制仲裁軌跡 |
-| `p2_method.png` | 專案 02(ErrP 隱式回饋)方法流程圖 |
-| `p2_fig1.png` | 專案 02 結果圖 1 — 單試次偵測表現 |
-| `p2_fig2.png` | 專案 02 結果圖 2 — 錯誤率學習曲線 |
-| `p3_method.png` | 專案 03(多模態意圖估計)方法流程圖 |
-| `p3_fig1.png` | 專案 03 結果圖 1 — 預測時距 vs. 準確率 |
-| `p3_fig2.png` | 專案 03 結果圖 2 — 舒適度/易讀性評分 |
-| `p4_method.png` | 專案 04(被動式 BCI 工作負荷)方法流程圖 |
-| `p4_fig1.png` | 專案 04 結果圖 1 — 負荷估計效度 |
-| `p4_fig2.png` | 專案 04 結果圖 2 — 團隊任務表現 |
+| `p1_method.png` | 系統架構圖(MI / SSVEP + 視覺手勢 → 移動機械手臂) |
+| `p1_fig1.png` | 實驗場景 / 抓取任務照片 |
+| `p1_fig2.png` | BCI 解碼或控制結果圖 |
+
+## 專案 02 — Data-Driven Kinematic Stability Assessment of Artificial Joints
+| 檔名 | 內容 |
+|---|---|
+| `p2_method.png` | 模組化實驗平台 / 穩定度量測流程圖 |
+| `p2_fig1.png` | 分群結果(代表性運動區域) |
+| `p2_fig2.png` | 應變場 / 穩定度指標 |
+
+## 專案 03 — Physics-Based VR Simulator for Telerobotic Surgical Training
+| 檔名 | 內容 |
+|---|---|
+| `p3_fig1.png` | VR 血管手術場景(Meta Quest 2 畫面) |
+| `p3_fig2.png` | 導線 / 支架 / 氣球物理模擬 |
+
+## 專案 04 — Aerorider (Autonomous Wind-Driven Car)
+| 檔名 | 內容 |
+|---|---|
+| `p4_fig1.png` | 風力車整體照片 |
+| `p4_fig2.png` | 帆 / 煞車機構特寫或賽道實測 |
+
+## 專案 05 — Low-Cost Object Detection and Navigation for an Autonomous Car
+| 檔名 | 內容 |
+|---|---|
+| `p5_fig1.png` | 偵測結果(ZED + YOLOv8,交通錐/車輛) |
+| `p5_fig2.png` | 路徑規劃 / 導航畫面 |
