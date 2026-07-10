@@ -377,9 +377,10 @@ section[data-page].visible { display: block; }
   font-family: 'IBM Plex Mono', monospace;
   font-size: 12px;
   color: var(--muted);
-  width: 120px;
+  width: 150px;
   flex: none;
   line-height: 1.7;
+  white-space: nowrap;
 }
 
 .edu-degree { font-size: 18px; font-weight: 500; line-height: 1.4; }
